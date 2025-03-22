@@ -3,3 +3,13 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 background-color: rgb(253, 242, 174); 
 color: rgb(62, 61, 61);
 }
+
+a {
+    color: rgb(249, 183, 4);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(239, 219, 118);
+    text-decoration: underline;
+}
